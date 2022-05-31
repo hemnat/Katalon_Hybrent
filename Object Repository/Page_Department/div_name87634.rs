@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_name87634</name>
+   <tag></tag>
+   <elementGuidId>6b611f8f-4d74-4b81-bfba-eff64afc1337</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ng-view']/div/div/div/div/div[3]/div/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.grid-heading.grid-title-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ba977cf5-7b29-4c3b-87e7-e4ddf4ccd196</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>grid-heading grid-title-label</value>
+      <webElementGuid>9c17b4d7-9c63-48de-8f5b-5901a654ccdf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>name87634</value>
+      <webElementGuid>92984b8e-b14e-4b38-9737-68020cabd0fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper&quot;)/section[1]/div[@class=&quot;container-fluid section-container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-18 col-sm-18 col-md-18 col-lg-18 col-vl-18&quot;]/div[@id=&quot;ng-view&quot;]/div[@id=&quot;ng-view&quot;]/div[@class=&quot;col-sm-18&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-18&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-18&quot;]/div[@class=&quot;grid&quot;]/div[@class=&quot;masonry-brick grid-item loaded&quot;]/div[@class=&quot;grid-item-name grid-title-label-container&quot;]/div[@class=&quot;grid-heading grid-title-label&quot;]</value>
+      <webElementGuid>694528c6-0810-4dc3-8ef7-f7b962eda68a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ng-view']/div/div/div/div/div[3]/div/div[2]/div/div</value>
+      <webElementGuid>edb6fb71-8f4d-49be-8ba4-f6a723cda8ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/following::div[6]</value>
+      <webElementGuid>7c362049-ca4a-44ec-9b76-55cbf733eac6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Facilities'])[1]/following::div[6]</value>
+      <webElementGuid>0cfa9705-5dbc-41a4-aaa7-137361ba4970</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Facility:'])[1]/preceding::div[1]</value>
+      <webElementGuid>bd9efcc8-b7d4-43ac-94c5-eb7afcf05211</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(DNU) Boardman Orthopaedics and Rehabilitation'])[1]/preceding::div[2]</value>
+      <webElementGuid>e89afe20-ce85-4655-bf53-82555befd6ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='name87634']/parent::*</value>
+      <webElementGuid>e80f9b4e-354a-4a1b-88a7-9e0e257a8a10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div/div</value>
+      <webElementGuid>84c2a954-be5a-4734-8cfb-cdb7b41c2c31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'name87634' or . = 'name87634')]</value>
+      <webElementGuid>6c5d41cd-7538-4cfc-a164-e125f50982fe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
